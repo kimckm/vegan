@@ -1,0 +1,11 @@
+ding-talk:
+  agent-id: 866639292
+  corp-id: ding0026112ef0909a0e4ac5d6980864d335
+  app-key: ding9hmm5pw2hvmhljgu
+  app-secret: GSHQHWeFN2sP90riIonyc4C1P9N4YHMfqiOm8S8LCPSN7tDe5BTSY9yoViEWxGHg
+  # 加解密需要用到的token，企业可以随机填写。
+  token: rz_ding_talk_token
+  # 数据加密密钥。用于回调数据的加密，长度固定为43个字符，从a-z, A-Z, 0-9共62个字符中选取,您可以随机生成
+  encoding-aes-key: 09p6VZ2JrzVMv19M4rHNdvr5K4tgfkpmHLZgafKXQjJ
+  # 默认的审批发起人userId
+  default-user-id: abc
